@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://takutaku0806.github.io/Razy/sitemap.xml
